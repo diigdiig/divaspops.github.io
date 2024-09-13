@@ -1,0 +1,38 @@
+.body{
+    background-color:lightblue ;
+}
+.h1{
+    margin-block-end: 0pt;
+}
+.cabecalho{
+    color: white;
+    background-color: tomato;
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+}
+.navbaritem{
+    background-color: tomato;
+    color: white;
+    margin: 3pt;
+}
+.conteudo{
+    background-color: tomato;
+    padding: 5px 20% 5px 20%;
+}
+.conteudoitem{
+    background-color: black;
+    color: white;
+    text-align: justify;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 5pt;
+}
+
+.container{
+    display: grid;
+}
